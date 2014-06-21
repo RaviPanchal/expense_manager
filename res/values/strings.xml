@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">Account Manager</string>
+    <string name="selectaccount">Account:</string>
+    <string name="account">Account Name:</string>
+    <string name="accountname">Name of Account</string>
+    <string name="currency">Currency:</string>
+    <string name="date">Date Format:</string>
+    <string name="mmddyy">mm/dd/yyyy</string>
+    <string name="ddmmyy">dd/mm/yyyy</string>
+    <string name="create">Create Account</string>
+    <string name="conti">Continue</string>
+    <string name="selectAccount">Select Account:</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+    <string name="history">History</string>
+    <string name="setting">Settings</string>
+    <string name="reminder">Reminders</string>
+    <string name="price">Price:</string>
+    <string name="selectcategory">Select Category:</string>
+    <string name="selectdate">Select Date:</string>
+    <string name="description">Description:</string>
+    <string name="paymentmode">Payment Mode:</string>
+    <string name="photo">Take Picture:</string>
+    <string name="save">Save</string>
+    <string name="blank"></string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="sureDelete">Are you sure to delete?</string>
+    <string name="amount">Amount:</string>
+    <string name="lbldate">Date:</string>
+    <string name="showdate"></string>
+    <string name="changedate">Change Date</string>
+    <string name="today">Today</string>
+    <string name="income">Income :</string>
+    <string name="expense">Expense :</string>
+    <string name="cashonhand">Cash On Hand :</string>
+    <string name="todaysexpense">Total :</string>
+
+</resources>
